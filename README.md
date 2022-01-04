@@ -21,6 +21,9 @@
 <details><summary>Deploy To Railway (new)</summary>
 <p>
 <br>
+
+[![new update](https://telegra.ph/file/17fe7b5b68b808d8746e7.jpg)] 
+
 * New update 
 * app created in carefully 
 
