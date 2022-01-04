@@ -30,6 +30,8 @@
 <details><summary>Deploy To heroku</summary>
 <p>
 <br>
+
+Deploy To Heroku 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LXR-YOUTUBER-AMAL/Media-Search-bot-v2)
 </details>
 
