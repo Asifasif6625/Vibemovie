@@ -13,7 +13,7 @@
       "inline"
     ],
     "website": "https://github.com/Asifasif6625/Vibemovie",
-    "repository": https://github.com/Asifasif6625/Vibemovie",
+    "repository": "https://github.com/Asifasif6625/Vibemovie",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
